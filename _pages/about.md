@@ -12,7 +12,7 @@ profile:
     <p>+49 1774936423</p>
     <p>kumshash@uni-mainz.de</p>
     <p>67, Chattenstrasse, Weisenau</p>
-    <p>Mainz, Rhine-Paletine, 55130</p>
+    <p>Mainz, Rhine-Paletinate, 55130</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Decoding how signaling networks shape immune cell function in disease
+_**Decoding how signaling networks shape immune cell function in disease**_
 
 Hi and Welcome. I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
 
