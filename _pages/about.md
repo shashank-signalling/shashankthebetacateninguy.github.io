@@ -16,7 +16,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-,
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -30,7 +29,7 @@ latest_posts:
 
 Decoding how signaling networks shape immune cell function in disease
 
-Hi and Wecome. I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
+Hi and Welcome. I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
 
 My research aims to understand how key signaling networks, including the Wnt/β-catenin pathway and the PI3K/AKT pathway, control the development, activation, and functional behavior of B and T lymphocytes in disease contexts such as cancer and inflammation. By combining in vivo models with cellular and molecular approaches, I investigate how signaling pathways integrate to shape immune responses within complex tissue environments.
 
