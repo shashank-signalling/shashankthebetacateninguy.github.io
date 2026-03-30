@@ -23,7 +23,6 @@ cv:
     city: Mainz
     region: Rhineland-Palatinate
     postalCode: 55131
-  sections:
     Education:
       - institution: University of Mysore
         location: Mysore, India
