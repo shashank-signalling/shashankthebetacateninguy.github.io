@@ -35,12 +35,15 @@ cv:
         start_date: 2016
         end_date: 2023
         courses:
-          - Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway        
+          - Radioprotective mechanism of Omega 3 fatty acids on male physiological profile 
+            through Wnt canonical pathway        
         highlights:
-          - Investigated the impact of radiation exposure duration on physiological systems and underlying molecular regulatory mechanisms
-          - Studied recovery dynamics following radiation-induced damage, focusing on the role of the Wnt canonical pathway 
-          - Demonstrated the protective effects of omega-3 fatty acids against radiation-induced stress and
-            physiological alterations in murine models
+          - Investigated the impact of radiation exposure duration on physiological systems 
+            and underlying molecular regulatory mechanisms
+          - Studied recovery dynamics following radiation-induced damage focusing on 
+            the role of the Wnt canonical pathway 
+          - Demonstrated the protective effects of omega-3 fatty acids against 
+            radiation-induced stress and physiological alterations in murine models
             
     Experience:
       - company: Institute for Molecular Medicine
@@ -55,12 +58,6 @@ cv:
           - "Indian Council for Medical Research"
         date: 2021
         awarder: Indian Council for Medical Research
-
-      - title: Senior Research fellow
-        authors:
-          - "Department of Atomic Energy"
-        date: 2018
-        awarder: Bhabha Atomic Research Center
 
         - title: Travel Grant
         authors:
