@@ -31,57 +31,57 @@ cv:
         studyType: PhD
         start_date: 2016
         end_date: 2023
-        courses: >
+        courses:
           - Radioprotective mechanism of Omega 3 fatty acids on male
             physiological profile through Wnt canonical pathway        
-        highlights: >
+        highlights:
           - Investigated the impact of radiation exposure duration on
             physiological systems and underlying molecular regulatory mechanisms
             Studied recovery dynamics following radiation-induced damage, focusing
             on the role of the Wnt canonical pathway - Demonstrated the protective
             effects of omega-3 fatty acids against radiation-induced stress and
             physiological alterations in murine models
-  Experience:
-    - company: Institute for Molecular Medicine
-      position: Post Doctoral Scientist
-      location: Universitätsmedizin der Johannes Gutenberg Universität, Mainz
-      start_date: June 2024
-      end_date: Present
-  Skills:
-    - name: Molecular Biology and Cell signalling
-      level: expert
-      icon: fa-solid fa-hashtag
-      keywords: >
+    Experience:
+      - company: Institute for Molecular Medicine
+        position: Post Doctoral Scientist
+        location: Universitätsmedizin der Johannes Gutenberg Universität, Mainz
+        start_date: June 2024
+        end_date: Present
+    Skills:
+      - name: Molecular Biology and Cell signalling
+        level: expert
+        icon: fa-solid fa-hashtag
+        keywords:
         - PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture,
         flow cytometry, immunofluorescence, Immunoprecipitation, confocal
         microscopy
-    - name: Analytics and Bioinformatics
-      level: expert
-      icon: fa-solid fa-hashtag
-      keywords: >
+      - name: Analytics and Bioinformatics
+        level: expert
+        icon: fa-solid fa-hashtag
+        keywords:
         - HPLC, LC-MS, DLS, FPLC, RNA-seq, WES/WGS analysis, R (Seurat),
         FlowJo, GraphPad Prism, ImageJ
-  Languages:
-    - name: Hindi
-      summary: Native speaker
-    - name: English
-      summary: Fluent
-  Interests:
-    - name: Wnt Signaling, Cancer, Immunology, PI3K/AKT Signaling
-      icon: fa-solid fa-tag
-  References:
-    - name: Dr Nadine Hövelmeyer
-      icon: fa-solid fa-laptop
-      reference: >
+    Languages:
+      - name: Hindi
+        summary: Native speaker
+      - name: English
+        summary: Fluent
+    Interests:
+      - name: Wnt Signaling, Cancer, Immunology, PI3K/AKT Signaling
+        icon: fa-solid fa-tag
+    References:
+      - name: Dr Nadine Hövelmeyer
+        icon: fa-solid fa-laptop
+        reference: >
         [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html),
         Institute for Molecular Medicine, JGU Mainz – hoevelme@uni-mainz.de
-    - name: Professor Bjorn E Clausen
-      icon: fa-solid fa-laptop
-      reference: >
+     - name: Professor Bjorn E Clausen
+        icon: fa-solid fa-laptop
+        reference: >
         [Bjorn E Clausen](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-clausen.html),
         Institute for Molecular Medicine, JGU Mainz – bclausen@uni-mainz.de
-    - name: Professor Thomas Wunderlich
-      icon: fa-solid fa-laptop
-      reference: >
-        Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
-        thomas.wunderlich@sf.mpg.de, thomas.wunderlich@uni-koeln.de
+     - name: Professor Thomas Wunderlich
+       icon: fa-solid fa-laptop
+       reference: >
+         Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
+         thomas.wunderlich@sf.mpg.de, thomas.wunderlich@uni-koeln.de
