@@ -52,14 +52,31 @@ cv:
         level: expert
         icon: fa-solid fa-hashtag
         keywords:
-        - PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture,
-        flow cytometry, immunofluorescence, Immunoprecipitation, confocal microscopy
+          - PCR
+          - qPCR
+          - cloning
+          - mutagenesis
+          - Western blot
+          - ELISA
+          - Cell culture
+          - flow cytometry
+          - immunofluorescence
+          - Immunoprecipitation
+          - confocal microscopy
       - name: Analytics and Bioinformatics
         level: expert
         icon: fa-solid fa-hashtag
         keywords:
-        - HPLC, LC-MS, DLS, FPLC, RNA-seq, WES/WGS analysis, R (Seurat),
-        FlowJo, GraphPad Prism, ImageJ
+          - HPLC
+          - LC-MS
+          - DLS
+          - FPLC
+          - RNA-seq
+          - WES/WGS analysis
+          - R (Seurat)
+          - FlowJo
+          - GraphPad Prism
+          - ImageJ
     Languages:
       - name: Hindi
         summary: Native speaker
