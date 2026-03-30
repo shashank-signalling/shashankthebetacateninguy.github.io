@@ -66,14 +66,14 @@ cv:
       - name: Professor Nadine Hövelmeyer
         icon: fa-solid fa-laptop
         reference: AG Hövelmeyer, Institute for Molecular Medicine, JGU Mainz 
-        – hoevelme@uni-mainz.de
+        hoevelme@uni-mainz.de
 
       - name: Professor Bjorn E Clausen
         icon: fa-solid fa-laptop
         reference: Institute for Molecular Medicine, JGU Mainz 
-        – bclausen@uni-mainz.de
+        bclausen@uni-mainz.de
 
       - name: Professor Thomas Wunderlich
         icon: fa-solid fa-laptop
         reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
-        – thomas.wunderlich@sf.mpg.de thomas.wunderlich@uni-koeln.de
+        thomas.wunderlich@sf.mpg.de thomas.wunderlich@uni-koeln.de
