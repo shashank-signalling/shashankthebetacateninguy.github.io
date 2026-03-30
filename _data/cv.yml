@@ -4,23 +4,25 @@ cv:
   email: kumshash@uni-mainz.de
   location: Mainz, Germany
   image: ""
-  summary: An Indian born molecular biologist with expertise in immunology and molecular signaling focussing on how signaling pathways regulate immune cells. 
-  Experienced in developing and analysing genetically engineered mouse and applying cellular and molecular approaches to study immune regulation in cancer and inflammatory condition.
-
+  summary: Molecular biologist with expertise in immunology and intracellular signaling,
+  focusing on how signaling pathways regulate immune cell function.
+  Experienced in developing and analyzing genetically engineered mouse models
+  and applying cellular and molecular approaches to study immune regulation
+  in cancer and inflammatory diseases.
   social_networks:
     - network: X
       username: shashanktheWNTguy
     - network: GitHub
-      username: shashank-signalling.github.io
+      username: shashank-signalling
     - network: LinkedIn
-      username: www.linkedin.com/in/shashank-kumar-phd-7b9b3139
+      username: shashank-kumar-phd-7b9b3139
 
   address:
-    street: Institut für Molekulare Medizin, Universitätsmedizin der Johannes Gutenberg-Universität, Geb. 308A, 1. OG,Langenbeckstraße 1
-    city: Mainz
-    region: Rhine-Palatinate
-    postalCode: 55131
-    countryCode: DE
+    -street: "Institut für Molekulare Medizin, Universitätsmedizin der Johannes Gutenberg-Universität"
+    -city: Mainz
+    -region: Rhineland-Palatinate
+    -postalCode: 55131
+    -countryCode: DE
 
   sections:
     Education:
@@ -34,149 +36,100 @@ cv:
         score: ""
         courses: "Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway."
         highlights:
-          - Investigated the severity of radiation effects with duration of exposure on different components of physiological system and its molecular control
-          - studied recovery dynamics from radiation effects and role of molecular control of Wnt canonical pathway
-          - Demonstrated the protective effect of Omega 3 fatty acids prevent from radiation induced stress and physiological alterations through Wnt canonical pathway.
+          - Investigated the impact of radiation exposure duration on physiological systems and underlying molecular regulatory mechanisms
+          - Studied recovery dynamics following radiation-induced damage, focusing on the role of the Wnt canonical pathway
+          - Demonstrated the protective effects of omega-3 fatty acids against radiation-induced stress and physiological alterations in murine models
 
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: 
+        position: 
+        location: 
+        start_date: 
+        end_date: 
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
+          
     Awards:
-      - title: Nobel Prize in Physics
+      - title: 
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - 
+        date:
+        awarder: 
+        url: 
+        summary: 
 
-      - title: Max Planck Medal
+      - title: 
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+         
+        date:
+        awarder: 
+        summary: 
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: 
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          
+        publisher: 
+        releaseDate: 
+        url: 
+        summary: 
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: 
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+       
+        publisher: 
+        releaseDate:
+        url: 
+        summary: 
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Molecular Biology and Cell signalling
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture, flow cytometry, immunofluorescence, Immunoprecipitation, confocal microscopy"
+
+      - name: Analytics and Bioinformatics
+        level: 
+        icon: fa-solid fa-hashtag
+        keywords: "HPLC, LC-MS, DLS, FPLC, RNA-seq, WES/WGS analysis, R (Seurat), FlowJo, GraphPad Prism, ImageJ"
 
     Languages:
-      - name: German
+      - name: Hindi
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Wnt Signaling, Cancer, Immunology, PI3K/AKT Signaling, Radiation Biology
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: 
+        date: 
+        issuer: 
+        icon: 
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: 
+        summary: 
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+         
+        start_date: 
+        end_date: 
 
     References:
-      - name: Professor John Doe
+      - name: Professor Nadine Hövelmeyer
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: AG Hövelmeyer, Institute for Molecular Medicine, JGU Mainz – hoevelme@uni-mainz.de
 
-      - name: Professor Jane Smith
+      - name: Professor Bjorn E Clausen
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Institute for Molecular Medicine, JGU Mainz – bclausen@uni-mainz.de
+
+         - name: Professor Thomas Wunderlich
+        icon: fa-solid fa-thumbtack
+        reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics – thomas.wunderlich@sf.mpg.de Thomas.wunderlich@uni-koeln.de
