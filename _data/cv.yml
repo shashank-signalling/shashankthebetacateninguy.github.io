@@ -95,15 +95,18 @@ cv:
     References:
       - name: Dr Nadine Hövelmeyer
         icon: fa-solid fa-laptop
-        reference: [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html)
+        reference: >
+          [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html)
           Institute for Molecular Medicine, JGU Mainz – hoevelme@uni-mainz.de
       
       - name: Professor Bjorn E Clausen
         icon: fa-solid fa-laptop
-        reference: [Bjorn E Clausen](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-clausen.html)
+        reference: >
+          [Bjorn E Clausen](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-clausen.html)
           Institute for Molecular Medicine, JGU Mainz – bclausen@uni-mainz.de
       
       - name: Professor Thomas Wunderlich
         icon: fa-solid fa-laptop
-        reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
+        reference: >
+          Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
           thomas.wunderlich@sf.mpg.de, thomas.wunderlich@uni-koeln.de
