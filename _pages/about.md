@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Institute for Molecular Medicine, University Medical Campus, Mainz, Germany
+subtitle: <a href='#'>Affiliations</a>. Institute for Molecular Medicine, Universitätsmedizin der Johannes Gutenberg-Universität, Mainz, Germany
 
 profile:
   align: right
@@ -11,8 +11,12 @@ profile:
   more_info: >
     <p>+49 1774936423</p>
     <p>kumshash@uni-mainz.de</p>
-    <p>67, Chattenstrasse, Weisenau</p>
-    <p>Mainz, Rhine-Paletinate, 55130</p>
+    <p>Institut für Molekulare Medizin
+Universitätsmedizin der Johannes Gutenberg-Universität
+Geb. 308A, 1. OG,
+Langenbeckstraße 1
+55131 Mainz
+Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,8 +33,8 @@ latest_posts:
 
 _**Decoding how signaling networks shape immune cell function in disease**_
 
-Hi and Welcome. I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
+Hi and Welcome to my website. My name is Shashank and I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
 
-My research aims to understand how key signaling networks, including the Wnt/β-catenin pathway and the PI3K/AKT pathway, control the development, activation, and functional behavior of B and T lymphocytes in disease contexts such as cancer and inflammation. By combining in vivo models with cellular and molecular approaches, I investigate how signaling pathways integrate to shape immune responses within complex tissue environments.
+My research aims to understand how key signaling networks, including the Wnt/β-catenin pathway and the PI3K/AKT pathway, control the development, activation, and functional behavior of B and T lymphocytes in disease contexts such as cancer and inflammation. By combining _in vivo_ models with cellular and molecular approaches, I investigate how signaling pathways integrate to shape immune responses within complex tissue environments.
 
 My long-term goal is to establish an independent research program focused on understanding how signaling pathway crosstalk governs immune cell plasticity and function in disease, with the aim of identifying novel therapeutic strategies.
