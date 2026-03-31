@@ -1,8 +1,6 @@
-your-repo/
-└── assets/
-    └── icons/
-        ├── github.svg
-        ├── linkedin.svg
-        ├── google-scholar.svg
-        ├── email.svg
-        └── cv.svg
+github.svg
+linkedin.svg
+google-scholar.svg
+email.svg
+cv.svg
+institute.svg
