@@ -110,9 +110,9 @@ ninja.data = [{
             },},{id: "news-launched-my-personal-academic-website-to-share-my-research-and-ongoing-work",
           title: 'Launched my personal academic website to share my research and ongoing work.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
