@@ -160,11 +160,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Wnt%20Canonical%20Signalling/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction To Machine Learning',
+            },},{id: "teachings-wnt-non-canonical-signalling",
+          title: 'Wnt non Canonical signalling',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/Wnt%20non-canonical%20Signalling/";
             },},{
         id: 'social-cv',
         title: 'CV',
