@@ -64,36 +64,51 @@ layout: default
 {% endif %}
 
     <!-- Social -->
-    <div class="social-links" style="display:flex; gap:12px; align-items:center;">
+    <!-- Social links with hover effect -->
+<style>
+  .social-links {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
 
-  <!-- GitHub -->
-    <a href="https://github.com/shashank-signalling" target="_blank" title="GitHub">
-    <img src="/assets/icons/github.svg" alt="GitHub" width="32" height="32">
+  .social-links img {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.2s, filter 0.2s;
+    filter: grayscale(100%);
+  }
+
+  .social-links img:hover {
+    transform: scale(1.2);
+    filter: grayscale(0%);
+  }
+</style>
+
+<div class="social-links">
+
+  <a href="https://github.com/shashank-signalling" target="_blank" title="GitHub">
+    <img src="/assets/icons/github.svg" alt="GitHub">
   </a>
 
-  <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/shashank-kumar-phd-7b9b3139" target="_blank" title="LinkedIn">
-    <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">
+  <a href="https://www.linkedin.com/in/shashank-kumar-phd-7b9b3139" target="_blank" title="LinkedIn">
+    <img src="/assets/icons/linkedin.svg" alt="LinkedIn">
   </a>
 
-  <!-- Google Scholar -->
-    <a href="https://scholar.google.com/citations?user=9ZyK8FsAAAAJ" target="_blank" title="Scholar">
-    <img src="/assets/icons/google-scholar.svg" alt="Scholar" width="32" height="32">
+  <a href="https://scholar.google.com/citations?user=9ZyK8FsAAAAJ" target="_blank" title="Scholar">
+    <img src="/assets/icons/google-scholar.svg" alt="Scholar">
   </a>
 
-  <!-- Email -->
   <a href="mailto:kumshank@uni-mainz.de" target="_blank" title="Email">
-    <img src="/assets/icons/email.svg" alt="Email" width="32" height="32">
+    <img src="/assets/icons/email.svg" alt="Email">
   </a>
 
-  <!-- CV -->
   <a href="/assets/pdf/example_pdf.pdf" target="_blank" title="Curriculum Vitae">
-    <img src="/assets/icons/cv.svg" alt="CV" width="32" height="32">
+    <img src="/assets/icons/cv.svg" alt="CV">
   </a>
 
-  <!-- Institute -->
-  <a href="https://www.unimedizin-mainz.de/molekulare-medizin/en/members.html" target="_blank" title="Institute">
-    <img src="/assets/icons/institute.svg" alt="Institute" width="32" height="32">
+  <a href="https://www.uni-mainz.de/" target="_blank" title="Institute">
+    <img src="/assets/icons/institute.svg" alt="Institute">
   </a>
 
 </div>
