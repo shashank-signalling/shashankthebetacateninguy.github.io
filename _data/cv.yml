@@ -34,7 +34,7 @@ cv:
         end_date: 2023
         courses:
           - Radioprotective mechanism of Omega 3 fatty acids on male physiological profile 
-            through Wnt canonical pathway        
+            through Wnt canonical pathway
         highlights:
           - Investigated the impact of radiation exposure duration on physiological systems 
             and underlying molecular regulatory mechanisms
@@ -45,7 +45,7 @@ cv:
             
     Experience:
       - company: Institute for Molecular Medicine, Johannes Gutenberg Universität
-        position: Post Doctoral Scientist
+        position: [Post Doctoral Scientist](https://www.unimedizin-mainz.de/molekulare-medizin/en/members.html)
         location: Universitätsmedizin, Mainz
         start_date: 2024
         end_date: Present
@@ -54,7 +54,7 @@ cv:
     Skills:
       - name: Molecular Biology and Cell signalling
         level: expert
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-scientist
         keywords:
           - PCR
           - qPCR
@@ -70,7 +70,7 @@ cv:
           
       - name: Analytics and Bioinformatics
         level: expert
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-user-graduate
         keywords:
           - HPLC
           - LC-MS
