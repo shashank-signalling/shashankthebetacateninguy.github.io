@@ -1,30 +1,18 @@
 ---
 layout: page
 title: Mechanisms of IL-10 mediated tumor immune evasion in colorectal cancer development <img width="600" height="248" alt="image" src="https://github.com/user-attachments/assets/f8a1c1dd-3cb6-471c-87d0-f42afd6d3e5e" />
-description: 
-  - Obesity-induced interleukin-6 (IL-6) shifts macrophage polarisation towards tumour-promoting macrophages that produce the chemokine CC-chemokine-ligand-20 (CCL-20) in the CAC microenvironment. 
-  - CCL-20 promotes CAC progression by recruiting CC-chemokine-receptor-6 (CCR-6)-expressing B cells and γδ T cells via chemotaxis. 
-  - So we knew that B cells are recruited to the TME, but we do not know whether they are protective or not. Although accumulative evidence suggests a pathological role of B cells in IBD as well as in CRC, causal and mechanistic studies to support this notion are still limited. 
-  - To investigate the role of b cells in CRC We used  jht (b cell deficient)  in the aom/dss model of crc. Mice homozygous for the Igh-Jtm1Cgn targeted mutation fail to produce functional B-cells as they lack the gene for the heavy chain joining region. We aimed at investigating the role of B cells in the AOM-DSS model of colitis associated cancer. In this model mice are injected with AOM, which causes DNA alkylation in intestinal epithelia cells. This triggers activation of DNA damage response pathways resulting in DNA repair as well as apoptosis. DSS in the drinking water leads to epithelia barrier damage and subsequently to the development of tumors. 
-  - In this model only adenoma. Invasive growth is rarely observed when tumors are induced by AOM in WT mice. We found that B cell deficiency protects mice from AOM/DSS induced CRC. As expected, analysis of the tumor colon showed significantly less immune cells as well as inflammation. Especially, T cells and macrophages were reduced in B cell deficient mice and the secretion of inflammatory cytokines was reduced as well.
+description: #
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Obesity-induced interleukin-6 (IL-6) shifts macrophage polarisation towards tumour-promoting macrophages that produce the chemokine CC-chemokine-ligand-20 (CCL-20) in the CAC microenvironment. 
+  - CCL-20 promotes CAC progression by recruiting CC-chemokine-receptor-6 (CCR-6)-expressing B cells and γδ T cells via chemotaxis. 
+  - So we knew that B cells are recruited to the TME, but we do not know whether they are protective or not. Although accumulative evidence suggests a pathological role of B cells in IBD as well as in CRC, causal and mechanistic studies to support this notion are still limited. 
+  - To investigate the role of b cells in CRC We used  jht (b cell deficient)  in the aom/dss model of crc. Mice homozygous for the Igh-Jtm1Cgn targeted mutation fail to produce functional B-cells as they lack the gene for the heavy chain joining region. We aimed at investigating the role of B cells in the AOM-DSS model of colitis associated cancer. In this model mice are injected with AOM, which causes DNA alkylation in intestinal epithelia cells. This triggers activation of DNA damage response pathways resulting in DNA repair as well as apoptosis. DSS in the drinking water leads to epithelia barrier damage and subsequently to the development of tumors. 
+  - In this model only adenoma. Invasive growth is rarely observed when tumors are induced by AOM in WT mice. We found that B cell deficiency protects mice from AOM/DSS induced CRC. As expected, analysis of the tumor colon showed significantly less immune cells as well as inflammation. Especially, T cells and macrophages were reduced in B cell deficient mice and the secretion of inflammatory cytokines was reduced as well.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
