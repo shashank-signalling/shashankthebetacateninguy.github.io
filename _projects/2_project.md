@@ -1,25 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Wnt Signaling in B and T Cell Development
+description: This project investigates how canonical Wnt signaling regulates B and T cell development and maintains immune homeostasis.
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Wnt signaling is a highly conserved pathway that plays a central role in regulating cell fate, proliferation, and differentiation across multiple biological systems. In the immune system, canonical Wnt signaling has been implicated in the development and function of both B and T lymphocytes, contributing to the maintenance of immune homeostasis. While previous studies have established its importance at key developmental stages, the precise mechanisms by which Wnt signaling governs lineage decisions and functional maturation remain incompletely understood. In particular, how signaling dynamics are integrated to maintain immune balance is still unclear. This work aims to define how canonical Wnt signaling shapes B and T cell development and to identify its role in preserving immune homeostasis under physiological conditions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
