@@ -110,9 +110,9 @@ ninja.data = [{
             },},{id: "news-launched-my-personal-academic-website-to-share-my-research-and-ongoing-work",
           title: 'Launched my personal academic website to share my research and ongoing work.',
           description: "",
-          section: "News",},{id: "projects-mechanisms-of-il-10-mediated-tumor-immune-evasion-in-colorectal-cancer-development",
-          title: 'Mechanisms of IL-10 mediated tumor immune evasion in colorectal cancer development',
-          description: "",
+          section: "News",},{id: "projects-il-10-and-tumor-immune-evasion-in-colorectal-cancer",
+          title: 'IL-10 and Tumor Immune Evasion in Colorectal Cancer',
+          description: "Studying how IL-10 helps tumors escape the immune system in colorectal cancer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
