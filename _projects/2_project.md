@@ -5,7 +5,7 @@ description: Investigating how canonical Wnt signaling regulates B and T cell de
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 Wnt signaling is a highly conserved pathway that plays a central role in regulating cell fate, proliferation, and differentiation across multiple biological systems. In the immune system, canonical Wnt signaling has been implicated in the development and function of both B and T lymphocytes, contributing to the maintenance of immune homeostasis. While previous studies have established its importance at key developmental stages, the precise mechanisms by which Wnt signaling governs lineage decisions and functional maturation remain incompletely understood. In particular, how signaling dynamics are integrated to maintain immune balance is still unclear. This work aims to define how canonical Wnt signaling shapes B and T cell development and to identify its role in preserving immune homeostasis under physiological conditions.
 
