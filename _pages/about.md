@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Institute for Molecular Medicine, Universitätsmedizin der Johannes Gutenberg-Universität, Mainz, Germany
+subtitle: <a href='#'>Affiliations</a>. [Institute for Molecular Medicine](https://www.unimedizin-mainz.de/molekulare-medizin/en/home.html), Universitätsmedizin der Johannes Gutenberg-Universität, Mainz, Germany
 
 profile:
   align: right
