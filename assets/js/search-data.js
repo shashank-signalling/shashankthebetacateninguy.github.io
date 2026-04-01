@@ -37,19 +37,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Publications/";
           },
-        },{id: "nav-courses",
-          title: "Courses",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Courses/";
-          },
         },{id: "nav-biography",
           title: "Biography",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Biography/";
+          },
+        },{id: "nav-courses",
+          title: "Courses",
+          description: "Course materials, schedules, and resources for classes taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Courses/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
