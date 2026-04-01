@@ -54,7 +54,7 @@ cv:
     Skills:
       - name: Molecular Biology and Cell signalling
         level: expert
-        icon: fa-solid fa-scientist
+        icon: fa-solid fa-microscope
         keywords:
           - PCR
           - qPCR
