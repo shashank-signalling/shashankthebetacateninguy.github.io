@@ -110,7 +110,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-wnt-signaling-in-b-and-t-cell-development",
           title: 'Wnt Signaling in B and T Cell Development',
-          description: "Investigating how canonical Wnt signaling regulates B and T cell development and maintains immune homeostasis.",
+          description: "Investigating how Wnt signaling regulates adaptive immune cell functions and homeostasis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-pi3k-akt-and-wnt-signaling-crosstalk-in-immune-cell-development-and-malignancy",
