@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Wnt Signaling in B and T Cell Development
-description: Investigating how canonical Wnt signaling regulates B and T cell development and maintains immune homeostasis.
+description: Investigating how Wnt signaling regulates adaptive immune cell functions and homeostasis.
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
 related_publications: true
 ---
