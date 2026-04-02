@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wnt Signaling in B and T Cell Development
-description: Investigating how Wnt signaling regulates adaptive immune cell functions and homeostasis.
+title: Wnt Signaling and Adaptive Immunity
+description: Investigating how Wnt signaling regulates adaptive immune cells functions and homeostasis.
 img: assets/img/3.jpg
 importance: 1
 category: work
