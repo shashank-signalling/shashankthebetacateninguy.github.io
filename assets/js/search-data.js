@@ -113,9 +113,9 @@ ninja.data = [{
           description: "Investigating how Wnt signaling regulates adaptive immune cells functions and homeostasis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-pi3k-akt-and-wnt-signaling-crosstalk-in-immune-cell-development-and-malignancy",
-          title: 'PI3K/AKT and Wnt Signaling Crosstalk in Immune Cell Development and Malignancy',
-          description: "Exploring how PI3K/AKT and Wnt signaling pathways interact to regulate immune cell fate and contribute to hematologic malignancies",
+            },},{id: "projects-integration-of-signalling-and-metabolic-pathways-in-immune-cell-development-and-malignancy",
+          title: 'Integration of signalling and metabolic pathways in immune cell development and malignancy',
+          description: "Exploring how PI3K/AKT and Wnt signaling pathways coordinate to regulate immune cell fate, metabolic programs and hematologic malignancies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-integrin-beta2-cd18-in-b-cell-development-and-function",
